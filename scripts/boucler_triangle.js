@@ -6,3 +6,9 @@
     compteur += 1;
     console.log(sortie);
  }
+
+ let sorties = " ";
+ for(let compteur = 1 ; compteur <= 7 ; compteur += 1) {
+     sorties += "#"
+     console.log(sorties);
+ }
