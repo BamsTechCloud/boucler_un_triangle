@@ -12,3 +12,7 @@
      sorties += "#"
      console.log(sorties);
  }
+
+ for(let diese = " #" ; diese.length <= 8; diese += "#") {
+     console.log(diese);
+ }
