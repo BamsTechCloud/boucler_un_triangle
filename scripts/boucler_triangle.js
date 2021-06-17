@@ -1,7 +1,7 @@
  
  let sortie = " ";
  let compteur = 0;
- while( wompteur < 8) {
+ while(compteur < 7) {
      sortie += "#";
      compteur += 1;
      console.log(sortie);
